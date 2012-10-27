@@ -25,6 +25,7 @@
 		0497C159163C60BD00BE138E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0497C157163C60BD00BE138E /* InfoPlist.strings */; };
 		0497C15C163C60BD00BE138E /* gitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0497C15B163C60BD00BE138E /* gitTests.m */; };
 		0497C167163C638000BE138E /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 0497C166163C638000BE138E /* Person.m */; };
+		0497C16A163C643D00BE138E /* Person2.m in Sources */ = {isa = PBXBuildFile; fileRef = 0497C169163C643D00BE138E /* Person2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,8 @@
 		0497C15B163C60BD00BE138E /* gitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitTests.m; sourceTree = "<group>"; };
 		0497C165163C638000BE138E /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
 		0497C166163C638000BE138E /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		0497C168163C643D00BE138E /* Person2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person2.h; sourceTree = "<group>"; };
+		0497C169163C643D00BE138E /* Person2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +96,8 @@
 			isa = PBXGroup;
 			children = (
 				0497C165163C638000BE138E /* Person.h */,
+				0497C168163C643D00BE138E /* Person2.h */,
+				0497C169163C643D00BE138E /* Person2.m */,
 				0497C166163C638000BE138E /* Person.m */,
 				0497C12D163C60BD00BE138E /* git */,
 				0497C154163C60BD00BE138E /* gitTests */,
@@ -283,6 +288,7 @@
 				0497C138163C60BD00BE138E /* AppDelegate.m in Sources */,
 				0497C147163C60BD00BE138E /* ViewController.m in Sources */,
 				0497C167163C638000BE138E /* Person.m in Sources */,
+				0497C16A163C643D00BE138E /* Person2.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

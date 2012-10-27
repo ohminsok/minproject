@@ -1,15 +1,13 @@
 //
-//  Person.h
+//  Person2.h
 //  git
 //
 //  Created by Mac on 10/27/12.
 //  Copyright (c) 2012 Mac. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
-@interface Person : NSObject
-
-@property int age;
+@interface Person2 : NSObject
 
 @end
